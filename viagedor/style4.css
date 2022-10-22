@@ -1,0 +1,32 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:300,700';
+
+  table{
+   margin: 0 auto;
+   width: 1080px;
+   font-family: 'Roboto Mono';
+   font-size: 15px;
+   box-shadow: 0 0 20px rgba(0,0,0,0.15);
+  }
+ 
+  table#t1 tr:nth-child(even) {
+    background-color:  whitesmoke;
+ 
+   
+  }
+  table#t1 tr:nth-child(odd) {
+    background-color: #c0ded9;
+ 
+  }
+
+  th{
+    background-color: #77a8a8;
+    color: white;
+    padding: 15px;
+  
+  } 
+
+  td{
+    padding: 10px;
+    
+  }
+  
